@@ -1,0 +1,14 @@
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\1001.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\1001.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\1001.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\bin\Debug\net7.0\1001.exe
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\bin\Debug\net7.0\1001.deps.json
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\bin\Debug\net7.0\1001.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\bin\Debug\net7.0\1001.dll
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\bin\Debug\net7.0\1001.pdb
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\1001.dll
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\refint\1001.dll
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\1001.pdb
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\1001.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\Workspace\Desafios-Uri\1001\obj\Debug\net7.0\ref\1001.dll
